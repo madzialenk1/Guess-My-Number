@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Guess My Number</string>
+
+    <string name="hint_first">"Choose the type of the hint first!"</string>
+    <string name="secret_number">"A secret number has been generated randomly. Go, guess it!"</string>
+    <string name="bounds"> "You haven't chosen the bounds yet!"</string>
+    <string name="number_first">"Type the guessed number first!" </string>
+    <string name="want">"I want it!" </string>
+    <string name="number_divided">"The number is divided by " </string>
+    <string name="number_generated_is_prime">"Generated number is prime!" </string>
+    <string name="number_generated_is_not_prime">"Generated number is not prime!" </string>
+    <string name="digit">"Digit sum is " </string>
+    <string name="digit_product">"The digit of products is " </string>
+    <string name="guessed_number">"You solved the number guessing game with " </string>
+    <string name="score">" attempts achieving a score of "</string>
+    <string name="dismiss_button">"Use Dismiss button"</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
